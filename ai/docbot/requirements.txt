@@ -284,7 +284,7 @@ pygments==2.18.0
     # via mesop
 pyparsing==3.1.4
     # via httplib2
-pypdf==4.3.1
+pypdf==6.4.0
     # via llama-index-readers-file
 pystemmer==2.2.0.1
     # via llama-index-retrievers-bm25
